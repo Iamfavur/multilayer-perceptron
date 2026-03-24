@@ -1,2 +1,4 @@
 # how to correctly ignore the venv folder in a .gitignore file
 venv/
+
+main2.ipynb
